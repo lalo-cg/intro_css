@@ -1,0 +1,21 @@
+/* selector */
+body {
+    /* color de fondo */
+    background-color: #4e4e4e;
+}
+h1 {
+/* propiedead: valor */
+color: #71e604; /*color de la etiqueta */
+text-align: center; /* alinear el texto */
+
+}
+p {
+    color: white;
+    font-size: x-large;
+}
+
+img {
+    height: 200px; /* altura */
+    width: 300px; /* ancho */
+
+}
